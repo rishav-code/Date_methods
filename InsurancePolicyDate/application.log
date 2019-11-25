@@ -1,0 +1,66 @@
+2019-11-22 19:45:46,324  INFO [main] LogReport:38 - login funcationality starts
+2019-11-22 19:48:33,488  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 10:46:27,577  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 10:49:36,941  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 10:53:16,674  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 10:55:20,191  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 10:55:21,255  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 11:01:24,694  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 11:01:28,169  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 11:02:34,333  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 11:02:37,489  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 11:11:39,007  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 11:11:40,424  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 11:14:25,130  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 11:14:26,679  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 11:16:13,514  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 11:16:15,021  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:02:20,353  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:02:22,188  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:05:21,039  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:05:22,590  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:05:22,590  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:13:21,241  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:13:22,718  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:13:22,719  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:17:49,282  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:17:50,808  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:17:50,809  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:21:44,121  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:21:46,291  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:21:46,292  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:22:55,309  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:22:57,097  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:22:57,098  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:40:37,558  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:40:39,140  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:40:39,141  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:40:42,245  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 12:51:51,371  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:51:53,386  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:51:53,386  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:51:56,490  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 12:55:02,555  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:55:04,060  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:55:04,060  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:55:07,166  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 12:57:12,797  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 12:57:14,648  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 12:57:14,648  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 12:57:18,542  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 13:03:24,912  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 13:03:26,544  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 13:03:26,545  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 13:03:29,685  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 13:08:04,092  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 13:08:05,940  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 13:08:05,940  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 13:08:09,062  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 13:18:01,779  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 13:18:03,339  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 13:18:03,339  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 13:18:06,441  INFO [main] LogReport:38 - Booking Tab Text Validation 
+2019-11-25 13:20:23,054  INFO [main] LogReport:38 - login funcationality starts
+2019-11-25 13:20:24,577  INFO [main] LogReport:38 - login fincationality ends
+2019-11-25 13:20:24,577  INFO [main] LogReport:38 - Hi Demo User Text validation starts
+2019-11-25 13:20:27,694  INFO [main] LogReport:38 - Booking Tab Text Validation 
